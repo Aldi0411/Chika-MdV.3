@@ -1,18 +1,18 @@
 {
   "users": {
-    "6285753424463@s.whatsapp.net": {
+    "6285751928963@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
       "limit": "Infinity"
     },
-    "6281341246576@s.whatsapp.net": {
+    "6281347864673@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
       "limit": 100
     }
   },
   "chats": {
-    "6285753424463@s.whatsapp.net": {
+    "6285751928963@s.whatsapp.net": {
       "mute": false,
       "antilink": false
     },
@@ -35,7 +35,7 @@
     "tebakan": []
   },
   "settings": {
-    "6285753424463@s.whatsapp.net": {
+    "6285751928963@s.whatsapp.net": {
       "status": 0,
       "autobio": false
     }
